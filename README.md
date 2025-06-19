@@ -6,9 +6,6 @@
 
 ## Popis projektu
 
-**Database modeling by creating an E-R diagram and a logical model.**  
-**The goal is to understand how to design tables, relationships, and attributes for future database development.** *(Subject: Database Systems)*
-
 Toto zadanie sa zameriava na implementáciu RPG bojového systému v PostgreSQL. Projekt obsahuje definíciu tabuliek, procedúr, logiky súbojov, regenerácie, manipulácie s predmetmi a logovania udalostí.
 
 ## Obsah
